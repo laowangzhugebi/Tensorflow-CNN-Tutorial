@@ -1,0 +1,1995 @@
+
+ my_log: fpath------------> data/2_105.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_108.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_130.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_92.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_48.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_31.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_12.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_43.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_81.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_25.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_5.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_136.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_17.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_85.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_45.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_16.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_110.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_23.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_133.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_40.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_115.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_116.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_118.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_89.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_44.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_50.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_90.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_103.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_46.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_144.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_6.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_34.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_52.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_125.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_76.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_0.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_1.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_63.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_51.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_94.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_37.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_55.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_29.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_68.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_88.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_19.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_139.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_104.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_79.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_57.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_109.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_102.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_111.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_42.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_123.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_135.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_98.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_33.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_67.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_138.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_62.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_27.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_73.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_30.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_131.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_140.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_120.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_148.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_99.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_147.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_119.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_124.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_60.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_96.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_126.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_74.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_77.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_80.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_145.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_112.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_107.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_2.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_78.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_61.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_9.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_114.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_8.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_82.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_149.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_49.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_91.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_70.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_146.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_56.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_3.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_72.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_47.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_142.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_39.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_143.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_128.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_106.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_14.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_83.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_24.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_127.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_121.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_93.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_21.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_100.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_101.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_95.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_28.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_75.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_132.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_54.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_36.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_15.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_20.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_71.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_65.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_97.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_69.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_86.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_64.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_26.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/1_58.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_134.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_137.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_4.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/0_59.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_38.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_87.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_53.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_35.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_113.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/2_10.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_11.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_22.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/2_18.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_41.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/2_129.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 2 
+
+
+ my_log: fpath------------> data/1_32.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_122.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_66.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: fpath------------> data/0_141.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5613174190> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_117.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614E08D00> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_84.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614A3D3A0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/0_7.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5614DCEEE0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 0 
+
+
+ my_log: fpath------------> data/1_13.jpg 
+
+
+ my_log: image------------> <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=32x32 at 0x7F5612C983D0> 
+
+
+ my_log: data.shape------------> 
+ (32, 32, 3) 
+
+
+ my_log: label------------> 1 
+
+
+ my_log: datas.shape------------> (150, 32, 32, 3) 
+
+
+ my_log: labels------------> [2 0 2 2 1 1 1 2 0 1 2 0 0 0 0 2 0 2 0 1 0 2 2 0 1 1 2 1 1 2 0 1 1 2 1 1 1
+ 0 2 1 1 2 2 2 2 2 0 0 1 0 0 1 2 2 0 0 1 1 0 0 2 0 0 0 0 2 2 2 1 2 0 0 0 1
+ 0 1 1 1 2 2 0 2 1 2 0 0 1 2 2 2 0 0 2 1 2 1 1 2 0 2 2 0 1 1 1 0 2 1 1 0 1
+ 2 1 1 0 1 2 2 2 1 1 0 0 2 1 1 1 0 2 2 0 0 1 0 1 0 2 2 1 2 2 2 1 0 1 0 0 0
+ 0 1] 
+
+shape of datas: (150, 32, 32, 3)	shape of labels: (150,)
+
+ my_log: num_classes------------> 3 
+
+my_log: conv0.shape------> (?, 28, 28, 20) 
+
+my_log: pool0.shape------> (?, 14, 14, 20) 
+
+my_log: conv1.shape------> (?, 11, 11, 40) 
+
+my_log: pool1.shape------> (?, 5, 5, 40) 
+
+my_log: flatten.shape------> (?, 1000) 
+
+my_log: fc.shape------> (?, 400) 
+
+my_log: logits.shape------> (?, 3) 
+
+训练模式
+step = 0	mean loss = 1.1046391725540161
+step = 10	mean loss = 1.0350583791732788
+step = 20	mean loss = 1.1066120862960815
+step = 30	mean loss = 0.8849892020225525
+step = 40	mean loss = 0.7079700231552124
+step = 50	mean loss = 0.6615484356880188
+step = 60	mean loss = 0.6049454808235168
+step = 70	mean loss = 0.3692476451396942
+step = 80	mean loss = 0.17702236771583557
+step = 90	mean loss = 0.07839525490999222
+step = 100	mean loss = 0.024951990693807602
+step = 110	mean loss = 0.008941985666751862
+step = 120	mean loss = 0.004186734557151794
+step = 130	mean loss = 0.002488065278157592
+step = 140	mean loss = 0.0016852235421538353
+训练结束，保存模型到model/image_model

@@ -1,0 +1,24 @@
+
+ mylog: x_test.shape-----> (10000, 32, 32, 3) 
+
+
+ mylog: y_test.shape-----> (10000, 1) 
+
+
+ mylog: num_datas_list.shape-----> (3,) 
+
+
+ mylog: num_datas_list-----> [0. 0. 0.] 
+
+
+ mylog: x_test.shape-----> (10000, 32, 32, 3) 
+
+
+ mylog: y_test.shape-----> (10000, 1) 
+
+
+ mylog: num_datas_list.shape-----> (3,) 
+
+
+ mylog: num_datas_list-----> [0. 0. 0.] 
+
